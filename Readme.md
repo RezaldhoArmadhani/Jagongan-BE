@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-<img height="110" src="doc\logo.png" alt="Jagongan" border="0"/>
+<img height="110" src="doc\Brand.png" alt="Jagongan" border="0"/>
 </div>
   <h3 align="center">Backend Jagongan</h3>
   <p align="center">
@@ -143,11 +143,11 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
+:rocket: [`Backend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-BE)
 
-:rocket: [`Frontend Blanja`](https://github.com/RezaldhoArmadhani/Jagongan-FE)
+:rocket: [`Frontend Jagongan`](https://github.com/RezaldhoArmadhani/Jagongan-FE)
 
-:rocket: [`Demo Blanja`](https://blanja-fe-eight.vercel.app/)
+:rocket: [`Demo Jagongan`](https://jagongan-fe.vercel.app/)
 
 <!-- CONTACT -->
 
