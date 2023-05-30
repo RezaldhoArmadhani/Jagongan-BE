@@ -123,11 +123,6 @@ REFRESH_TOKEN_SECRET
 ORIGIN_DOMAIN 
 ```
 
-## Endpoint List
-
-[![Run in Postman]
-<!-- (https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/26334344/2s93XyUPKH) -->
-
 
 <!-- CONTRIBUTING -->
 
